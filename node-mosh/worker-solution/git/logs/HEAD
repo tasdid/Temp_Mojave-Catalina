@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 24e7e33e64198ffe255772c669a9f219615f3d3b Kyle Simpson <getify@gmail.com> 1557455959 -0500	commit (initial): initial commit
+24e7e33e64198ffe255772c669a9f219615f3d3b 24e7e33e64198ffe255772c669a9f219615f3d3b Kyle Simpson <getify@gmail.com> 1557457001 -0500	reset: moving to HEAD
+24e7e33e64198ffe255772c669a9f219615f3d3b 404b086cf3e804bf8ba1965be425ad1045c7b562 Kyle Simpson <getify@gmail.com> 1557457047 -0500	commit: worker: calculate fib(n)
